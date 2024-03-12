@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **building Angular Application (MEAN)**
 
-- 🌱 I’m currently learning **GraphQL, Kafka,**
+- 🌱 I’m currently learning **,**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nagasundar4](https://github.com/nagasundar4)
 
-- 💬 Ask me about **Java, TypeScript, react, angular, next.js**
+- 💬 Ask me about **Java, JvaScript, TypeScript, react, angular, next.js, GraphQL, Kafka**
 
 - 📫 How to reach me **nagasundar@gmail.com**
 
