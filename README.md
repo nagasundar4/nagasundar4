@@ -5,15 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagasundar4" alt="nagasundar4" /></a> </p>
 
-- 🔭 I’m currently working on **building Angular Application (MEAN)**
-
-- 🌱 I’m currently learning **,**
+- 🔭 I’m currently working on ** **
+- 🌱 I’m currently learning **Scala, Golang**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nagasundar4](https://github.com/nagasundar4)
 
-- 💬 Ask me about **Java, JvaScript, TypeScript, react, angular, next.js, GraphQL, Kafka**
+- 💬 Ask me about **Java, JvaScript, TypeScript, react, angular, next.js, GraphQL, Kafka, building Angular Application (MEAN), building React/NextJS Application (MERN)**
 
 - 📫 How to reach me **nagasundar@gmail.com**
 
