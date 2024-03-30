@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagarajan Sundaram</h1>
-<h3 align="center">A passionate senior software lead Engineer from Canada</h3>
+<h3 align="center">A passionate senior software Engineer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagasundar4&label=Profile%20views&color=0e75b6&style=flat" alt="nagasundar4" /> </p>
 
